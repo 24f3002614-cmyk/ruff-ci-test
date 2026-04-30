@@ -1,0 +1,1 @@
+print("Ruff is passing")
