@@ -1,6 +1,1 @@
-import os
-import sys
-
-def test_function():
-    x = 10
-    print( "hello" )
+print("Ruff is passing")
